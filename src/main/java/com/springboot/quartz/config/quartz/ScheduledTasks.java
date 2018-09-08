@@ -8,6 +8,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * Created by zhh on 2018/9/6.
+ * 四、任务类
  */
 
 @Configuration
